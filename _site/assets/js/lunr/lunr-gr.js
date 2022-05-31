@@ -471,6 +471,8 @@ var idx = lunr(function () {
   }
 });
 
+console.log( jQuery.type(idx) );
+
 $(document).ready(function() {
   $('input#search').on('keyup', function () {
     var resultdiv = $('#results');
@@ -488,7 +490,7 @@ $(document).ready(function() {
         })
       });
     resultdiv.empty();
-    resultdiv.prepend('<p class="results__found">'+result.length+' 条记录匹配</p>');
+    resultdiv.prepend('<p class="results__found">'+result.length+' Result(s) found</p>');
     for (var item in result) {
       var ref = result[item].ref;
       if(store[ref].teaser){
