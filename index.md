@@ -15,7 +15,7 @@ Before that, I received B.S. in Software Engineering at Beijing University of Po
 
 My research interest includes Table Understanding, Structured Information Extraction and Multimodal Learning.
 
-<!-- I am actively looking for a full-time job. Please drop me an [email](mailto:huiyu@jhu.edu) if you are interested. -->
+I am actively looking for a full-time job. Please drop me an [email](mailto:yangqingping17s@ict.ac.cn) if you are interested.
 
 ## Publications
 
@@ -37,12 +37,12 @@ My research interest includes Table Understanding, Structured Information Extrac
 > **<font color="#FF1493" bold=true>[KDD 2020]</font>** Cracking Tabular Presentation Diversity for Automatic Cross-Checking over Numerical Facts.  
 > Hongwei Li, **Qingping Yang**, Yixuan Cao, Jiaquan Yao, and Ping Luo.  
 > *Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (ADS Track Long Paper, Acceptance Rate: 121/756≈16.01%)*  
-> [DOI](https://dl.acm.org/doi/10.1145/3394486.3403310) | [Paper](http://hw446.github.io/files/2020-KDD-tabular-presentation.pdf)
+> [DOI](https://dl.acm.org/doi/10.1145/3394486.3403310) | [Paper](http://qingping95.github.io/files/KDD_20_tabular_presentation.pdf)
 
 >  **<font color="#FF1493" bold=true>[DEXA 2020]</font>** Semantic Matching over Matrix-Style Tables in Richly Formatted Documents.  
 > Hongwei Li\*, **Qingping Yang\***, Yixuan Cao, Ganbin Zhou, and Ping Luo.  
 > *In International Conference on Database and Expert Systems Applications.*  
-> [DOI](https://doi.org/10.1007/978-3-030-59003-1_24) | [Paper](http://hw446.github.io/files/2020-DEXA-semantic-matching.pdf)  
+> [DOI](https://doi.org/10.1007/978-3-030-59003-1_24) | [Paper](http://qingping95.github.io/files/DEXA_20_semantic_matching.pdf)  
 
 ## Education
 
