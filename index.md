@@ -22,7 +22,7 @@ I am actively looking for a full-time job. Please drop me an [email](mailto:yang
 > **<font color="#FF1493" bold=true>[KDD 2022]</font>** Numerical Tuple Extraction from Tables with Pre-training.  
 > **Qingping Yang**, Yixuan Cao and Ping Luo.  
 > *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (Research Track Long Paper, Acceptance Rate: 254/1695≈14.98%)*  
-<!-- > [DOI](https://dl.acm.org/doi/abs/10.1145/3447548.3467425) | [Paper](http://qingping95.github.io/files/KDD_21_camera_ready.pdf) | [Slides](http://qingping95.github.io/files/KDD_21_presentation.pdf) -->
+> [DOI](https://doi.org/10.1145/3534678.3539460) | [Paper](http://qingping95.github.io/files/KDD_22_TVD_camera_ready.pdf) | [Slides](http://qingping95.github.io/files/KDD_22_TVD_presentation.pdf)
 
 > **<font color="#FF1493" bold=true>[KDD 2021]</font>** Numerical Formula Recognition from Tables.  
 > **Qingping Yang**, Yixuan Cao, Hongwei Li, Ping Luo.  
