@@ -9,13 +9,13 @@ author_profile: true
 # Qingping Yang / 杨清平
 ---
 
-I am a Ph.D. candidate in Computer Science at Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), 
+I am currently a researcher at [Alibaba DAMO Academy](https://damo.alibaba.com/) (Academy for Discovery, Adventure, Momentum and Outlook). Before that I received my Ph.D. in Computer Science at Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), 
 advised by [Prof. Ping Luo](https://ping-luo.github.io/). 
-Before that, I received B.S. in Software Engineering at Beijing University of Posts and Telecommunications in 2017.
+<!-- Before that, I received B.S. in Software Engineering at Beijing University of Posts and Telecommunications in 2017. -->
 
-My research interest includes Table Understanding, Structured Information Extraction and Multimodal Learning.
+My research interest includes LLM (especially in Code Generation), Table Understanding, and Structured Information Extraction.
 
-I am actively looking for a full-time job. Please drop me an [email](mailto:yangqingping17s@ict.ac.cn) if you are interested.
+
 
 ## Publications
 
@@ -69,5 +69,5 @@ I am actively looking for a full-time job. Please drop me an [email](mailto:yang
 - 2015 **Bronze Medal** in *ACM/ICPC* Asian Regional Beijing Onsite (ACM铜奖)
 - 2015, 2016 National Endeavor Scholarship （国家励志奖学金）
 - 2015 **National Second Prize** in National Mathematical Contest in Modeling (中国数学建模大赛 国家二等奖)
-- 2015 Honorable Mention in Mathematical Contest In Modeling (美国数学建模大赛 H奖)
+<!-- 2015 Honorable Mention in Mathematical Contest In Modeling (美国数学建模大赛 H奖) -->
 <!-- - 2015 **National Second Prize** in Service Outsourcing Innovation and Entrepreneurship Competition for Chinese College Student (中国大学生服务外包创新创业大赛 国家二等奖) -->
